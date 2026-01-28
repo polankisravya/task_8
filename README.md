@@ -47,5 +47,4 @@ Then open [http://localhost:8080](http://localhost:8080)
 - [Docker Hub Image](https://hub.docker.com/r/polankisravya/cicd-demo)
 - [Local App View](http://localhost:8080)
 
-## 📄 Report
-A 2-page PDF project report is included in the repo.
+
